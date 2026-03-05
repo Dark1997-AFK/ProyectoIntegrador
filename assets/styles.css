@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* paleta colores */
+:root {
+    /* modo claro */
+    --azulBotones: #197fe6;
+    --grisClaro: #f1f5f9;
+    --blancoNavbar: #ffffff;
+    --negroLetras: #0f172a;
+    --azulTitulo: #197fe6;
+    --fondoFooter: #0f172a;
+
+    /* modo oscuro */
+    --backroundNegro: #121212;
+    --azulbackround: #10172a;
+    --grisCard: #1e293b;
+    /* faltan colores.... */
+
+}
+
